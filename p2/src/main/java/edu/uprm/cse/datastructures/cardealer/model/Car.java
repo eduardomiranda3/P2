@@ -19,6 +19,7 @@ public class Car {
 		return carModelOption;
 	}
 	public double getCarPrice() {
+		
 		return carPrice;
 	}
 	
